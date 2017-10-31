@@ -13,3 +13,7 @@ pyfontaine analyses fonts for their language and character/glyph-set support.
 ## [OpenType-SVG](https://github.com/adobe-type-tools/opentype-svg)
 
 Tools for making OpenType-SVG fonts, by Adobe.
+
+## [Noto Tools](https://github.com/googlei18n/nototools)
+
+The nototools python package contains python scripts used to maintain the Noto Fonts project, including the google.com/get/noto website.
