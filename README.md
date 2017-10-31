@@ -20,4 +20,10 @@ Tools for making OpenType-SVG fonts, by Adobe.
 
 The nototools python package contains python scripts used to maintain the Noto Fonts project, including the google.com/get/noto website.
 
+## [Color Emoji](https://github.com/behdad/color-emoji)
+
+Tool to build color fonts using Google color-font format (CBDT/CBLC)
+
+## TODO
+
 (TODO: browse through the links at the bottom of https://github.com/fonttools/fonttools/tree/master/Snippets)
