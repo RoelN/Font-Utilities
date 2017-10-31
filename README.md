@@ -1,6 +1,6 @@
 # Font-Utilities
 
-A list of handy font utilities, mostly compiled for myself so I don't lose track of 'em.
+A list of handy command line font utilities, mostly compiled for myself so I don't lose track of 'em.
 
 ## [FontTools](https://github.com/fonttools/fonttools)
 
@@ -27,6 +27,10 @@ Tool to build color fonts using Google color-font format (CBDT/CBLC).
 ## [scfbuild](https://github.com/eosrei/scfbuild)
 
 Create color fonts from SVGs on the command line.
+
+## Scripts and snippets
+
+[Dump PNGs from sbix fonts](https://gist.github.com/Jolg42/f22676fdfba6dbfe4589aa30f0326fb4)
 
 ## TODO
 
