@@ -6,6 +6,8 @@ A list of handy font utilities, mostly compiled for myself so I don't lose track
 
 FontTools is a library for manipulating fonts, written in Python. The project includes the TTX tool, that can convert TrueType and OpenType fonts to and from an XML text format, which is also called TTX. It supports TrueType, OpenType, AFM and to an extent Type 1 and some Mac-specific formats.
 
+It's [snippets folder](https://github.com/fonttools/fonttools/tree/master/Snippets) is full of example scripts!
+
 ## [pyfontaine](https://github.com/davelab6/pyfontaine)
 
 pyfontaine analyses fonts for their language and character/glyph-set support.
