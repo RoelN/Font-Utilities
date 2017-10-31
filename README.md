@@ -22,7 +22,11 @@ The nototools python package contains python scripts used to maintain the Noto F
 
 ## [Color Emoji](https://github.com/behdad/color-emoji)
 
-Tool to build color fonts using Google color-font format (CBDT/CBLC)
+Tool to build color fonts using Google color-font format (CBDT/CBLC).
+
+## [scfbuild](https://github.com/eosrei/scfbuild)
+
+Create color fonts from SVGs on the command line.
 
 ## TODO
 
