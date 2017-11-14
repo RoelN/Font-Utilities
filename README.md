@@ -2,6 +2,10 @@
 
 A list of handy command line font utilities, mostly compiled for myself so I don't lose track of 'em.
 
+## [Homebrew webfont tools](https://github.com/bramstein/homebrew-webfonttools)
+
+Install various command line tools to convert/compress fonts, mainly for web usage.
+
 ## [FontTools](https://github.com/fonttools/fonttools)
 
 FontTools is a library for manipulating fonts, written in Python. The project includes the TTX tool, that can convert TrueType and OpenType fonts to and from an XML text format, which is also called TTX. It supports TrueType, OpenType, AFM and to an extent Type 1 and some Mac-specific formats.
