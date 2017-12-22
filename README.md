@@ -32,6 +32,10 @@ Tool to build color fonts using Google color-font format (CBDT/CBLC).
 
 Create color fonts from SVGs on the command line.
 
+## [pysvg2font](https://github.com/carrasti/pysvg2font)
+
+Python scripts to automate the process of converting a list of svg vectorial graphics to ttf fonts.
+
 ## Scripts and snippets
 
 [Dump PNGs from sbix fonts](https://gist.github.com/Jolg42/f22676fdfba6dbfe4589aa30f0326fb4)
