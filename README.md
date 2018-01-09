@@ -36,6 +36,10 @@ Create color fonts from SVGs on the command line.
 
 Python scripts to automate the process of converting a list of svg vectorial graphics to ttf fonts.
 
+## [Fontlint](https://fontforge.github.io/en-US/documentation/utilities/fontlint/)
+
+fontlint checks a font for certain standard problems
+
 ## Scripts and snippets
 
 [Dump PNGs from sbix fonts](https://gist.github.com/Jolg42/f22676fdfba6dbfe4589aa30f0326fb4)
