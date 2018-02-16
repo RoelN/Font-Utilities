@@ -46,4 +46,5 @@ fontlint checks a font for certain standard problems
 
 ## TODO
 
-(TODO: browse through the links at the bottom of https://github.com/fonttools/fonttools/tree/master/Snippets)
+- Browse through the links at the bottom of https://github.com/fonttools/fonttools/tree/master/Snippets
+- Check out Joël's extensive list: https://github.com/Jolg42/awesome-typography
