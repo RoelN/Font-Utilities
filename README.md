@@ -48,6 +48,14 @@ fontlint checks a font for certain standard problems
 
 [Dump PNGs from sbix fonts](https://gist.github.com/Jolg42/f22676fdfba6dbfe4589aa30f0326fb4)
 
+## FontTools snippets and examples
+
+https://github.com/fonttools/fonttools/wiki/How-do-I...%3F
+https://fonttools.readthedocs.io/en/latest/
+https://github.com/fonttools/fonttools/tree/master/Snippets
+https://github.com/arrowtype/fonttools-intro
+
+
 ## TODO
 
 - Browse through the links at the bottom of https://github.com/fonttools/fonttools/tree/master/Snippets
