@@ -51,8 +51,11 @@ fontlint checks a font for certain standard problems
 ## FontTools snippets and examples
 
 https://github.com/fonttools/fonttools/wiki/How-do-I...%3F
+
 https://fonttools.readthedocs.io/en/latest/
+
 https://github.com/fonttools/fonttools/tree/master/Snippets
+
 https://github.com/arrowtype/fonttools-intro
 
 
