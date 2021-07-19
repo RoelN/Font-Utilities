@@ -44,6 +44,10 @@ fontlint checks a font for certain standard problems
 
 [Otfeat testpage](https://charakterziffer.github.io/otfeat/index.html) - Test OpenType features in your browser, by way of a special font
 
+## JavaScript tools for fonts
+
+https://github.com/papandreou/subset-font
+
 ## Scripts and snippets
 
 [Dump PNGs from sbix fonts](https://gist.github.com/Jolg42/f22676fdfba6dbfe4589aa30f0326fb4)
